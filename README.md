@@ -45,5 +45,8 @@ serial serial0: tty port ttyS0 registered
 Try replacing `ttyAMA0` with the different listed devices.
 
 
+`SSD1305_test_basic.ino` is an Arduino sketch for the ESP32.
+
+
 
 

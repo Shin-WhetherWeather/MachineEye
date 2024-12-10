@@ -4,6 +4,10 @@
 The ESP32 communicates with the Raspberry Pi via hardware UART, here's the wiring diagram:
 ![wiring_uart](https://github.com/user-attachments/assets/9a67fa81-a5c6-4b69-893c-6a5d640088a3)
 
+Here's the wiring diagram to the screen, with this [blog post](https://newscrewdriver.com/2022/09/23/formlabs-form-1-oled-pinout/) as the reference
+![wiring_screen](https://github.com/user-attachments/assets/93e0ca3d-0a1d-45fe-8a0a-78bb18b68ae9)
+
+
 ## Enable hardware UART on the Raspberry Pi
 Enable hardware UART via the Raspberry Pi Configuration
 ![image](https://github.com/user-attachments/assets/fe54d104-5028-4c19-a6c7-4ead5176033b)

@@ -3,10 +3,6 @@
 #include <Adafruit_GFX.h>
 #include <Adafruit_SSD1305.h>
 
-// Used for software SPI
-#define OLED_CLK 6
-#define OLED_MOSI 8
-
 // Used for software or hardware SPI
 #define OLED_CS 10
 #define OLED_DC 8

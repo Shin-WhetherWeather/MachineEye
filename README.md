@@ -103,11 +103,11 @@ You can then run `audioTest.py`
 
 ## PCB
 The Gerber files for the 2 PCBs are available in the repository.
-# Main PCB
+### Main PCB
 ![image](https://github.com/user-attachments/assets/96d62aed-9f64-471a-b109-d972d2fe5510)
 ![image](https://github.com/user-attachments/assets/b8ff2b6c-30d2-43d2-899a-3b29f449454f)
 
-# Screen PCB
+### Screen PCB
 ![image](https://github.com/user-attachments/assets/3c6bd3d3-f7e3-4fdd-b70b-1c893211f370)
 ![image](https://github.com/user-attachments/assets/df059964-da9c-4219-9013-34a18471b725)
 

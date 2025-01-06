@@ -46,13 +46,13 @@ while(1):
         timeoutCounter = 0
 
     if(timeoutCounter > SILENCE_TIMEOUT):
-        break;
+        break
 
     #stops recording when max duration is reached, regardless of recording volume
     recordingCounter = recordingCounter + CHUNK/RATE
 
     if(recordingCounter > MAX_DURATION):
-        break;
+        break
 
 print("recording complete")
 # Stop recording
